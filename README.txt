@@ -1,1 +1,1 @@
-# TP_Task2 cmake must launch from build
+# TP_Task2 cmake can be launched from build
